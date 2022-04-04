@@ -1,4 +1,5 @@
-# Cohort 1 (September 2022 01-09-2022 to 01-11-2022)
+# Cohort 1 
+## September 2022 01-09-2022 to 01-11-2022
 
 Cohort 1 included XX participants
 
