@@ -7,6 +7,7 @@ Cohort 1 included XX participants
 - Parvathy Krishnan - Bio Photo
 
 ### Trainers/Lecturers
+- Parvathy Krishnan - Bio Photo
 
 ### Mentors
 -  Parvathy Krishnan - Bio Photo
