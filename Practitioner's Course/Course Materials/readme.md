@@ -1,6 +1,6 @@
 ## About this Folder
 
-This repository will be updated with all the materials for the different courses offered during the 6-week practitioner's fellowship program at Analytics for a Better World Institute
+This repository will be updated with all the materials for the different courses offered during the 8-week practitioner's fellowship program at Analytics for a Better World Institute
 
 ## Learning Outcomes
 
