@@ -13,6 +13,10 @@ The 42 fellows were from diverse roles but with the technical background to hand
 
 [Connect with them on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6981362107032162305)
 
+### The workshops and lectures are provided by our industry and academic partners
+
+<img width="1284" alt="image" src="https://user-images.githubusercontent.com/42402451/193455801-c715df04-6052-4c91-acbb-26976974aa95.png">
+
 ## 8 week schedule 
 
 ### Week 1
@@ -52,6 +56,13 @@ Descriptive statistics, Distributions, Probability Theory, Missing data, Outlier
 
 #### Principles of Digital Development
 
+- Trainer
+
+<img align="left" src="https://user-images.githubusercontent.com/42402451/193454425-c71fa116-aaec-4c6c-820c-172b95e00cc3.jpeg" width="200" height="250">
+
+[Mateus Girafa Lachtermacher](https://www.linkedin.com/in/mateus-girafa-lachtermacher-8b487110b/?originalSubdomain=br) advocates for social dialogue and evidence-based policymaking in order to improve the SDGs, especially 1 and 2. He specialized in data for economic policies, poverty reduction, financial inclusion, and rural development.
+His role at DIAL is to support the expansion of the Catalog of Digital Solutions and the Digital Principles. Since he entered in March 2022, Mateus has been helping mainly with the open data, playbooks, organizations and products tabs of the Catalog, and on data about the Digital Principles endorsers and the new intake form for potential endorsers. Mateus comes to DIAL with experience in international contexts and multilateral organizations, such as a field research coordinator at USP, Jr Technical Officer at ILO, and data intern at ENPARD, UNDP Georgia’s rural development program. His formation, with an Erasmus Joint Master Degree, was complemented by internships and voluntary experiences across Brazil in the areas of financial democratization, education, and slums development, currently coordinating a voluntary community team in a slum in Duque de Caxias (RJ).
+
 #### Data Exploration and Visualization
 
 #### Dashboarding with Data
@@ -72,7 +83,7 @@ How do you get people to support your data science solution? And how do you ensu
  
 - Trainer 
 
-<img src="https://user-images.githubusercontent.com/42402451/193450715-40ec59c8-d6bc-43e5-8982-e9a3319728bf.png" width="200" height="200">
+<img align="left" src="https://user-images.githubusercontent.com/42402451/193450715-40ec59c8-d6bc-43e5-8982-e9a3319728bf.png" width="200" height="200">
 
 [Elianne Anemaat](https://www.linkedin.com/in/elianneanemaat/) is a managing consultant at Amsterdam Data Collective and Data & Impact specialist at Disrupt Development. With a background in the social sciences and international development, she specialises in impact measurement and data-driven transition for social good. She combines her anthropological curiosity with vigorous pragmatism, and brings in expertise on strategy development, data-driven transition and digital innovation to support the work of non-profits, public and private sector alike.
 
