@@ -11,14 +11,64 @@ The 42 fellows were from diverse roles but with the technical background to hand
 
 ## 8 week schedule 
 
-- Mathematics and Statistics for Data Science
-- Data Science Project Lifecycle
-- Python for Data Science
-- Version control with GitHub for Data Scientists
-- Basics of SQL and NoSQL Databases
-- Principles of Digital Development
-- Data Exploration and Visualization
-- Dashboarding with Data
-- Introduction to Machine Learning
-- Introduction to Optimization
-- Deep Learning Fundamentals
+### Week 1
+
+#### Getting started with Data Science
+
+- Topics covered 
+
+Roles in a data science team, value with data science, data-driven decision making – descriptive, diagnostic, predictive and prescriptive, data science tech stack for non-profits, ethical considerations, Types of data and their value (some sample use cases from domains)
+
+- Trainer
+
+#### Collecting and Storing Data – Open Data Sources, SQL, NoSQL Database
+
+- Topics covered 
+
+Roles in a data science team, value with data science, data-driven decision making – descriptive, diagnostic, predictive and prescriptive, data science tech stack for non-profits, ethical considerations, Types of data and their value (some sample use cases from domains)
+
+- Trainer
+
+#### Python for Data Science
+- Topics covered 
+Roles in a data science team, value with data science, data-driven decision making – descriptive, diagnostic, predictive and prescriptive, data science tech stack for non-profits, ethical considerations, Types of data and their value (some sample use cases from domains)
+
+- Trainer
+
+#### Mathematics and Statistics for Data Science
+- Topics covered 
+
+Descriptive statistics, Distributions, Probability Theory, Missing data, Outlier analysis, Hypothesis testing, Survey Methods, Correlation, Survival Analysis, Regressions, ML algorithms, ANOVA, High-dimensional data analysis, Uncertainty
+
+- Trainer
+
+#### Version control with GitHub for Data Scientists
+
+#### Basics of SQL and NoSQL Databases
+
+#### Principles of Digital Development
+
+#### Data Exploration and Visualization
+
+#### Dashboarding with Data
+
+#### Introduction to Machine Learning
+
+#### Introduction to Optimization
+
+#### Deep Learning Fundamentals
+
+### Week 4
+
+#### Stakeholder Communication
+
+- Session description 
+
+How do you get people to support your data science solution? And how do you ensure that decision makers can use the insights that come from your data? Effective communication can help you to get management, colleagues and other stakeholders on board with your data science project. In this session, you will learn the most important practices in engaging your stakeholders and apply this to your own data science project.
+ 
+- Trainer 
+
+<img src="https://user-images.githubusercontent.com/42402451/193450715-40ec59c8-d6bc-43e5-8982-e9a3319728bf.png" width="200" height="200">
+
+[Elianne Anemaat](https://www.linkedin.com/in/elianneanemaat/) is a managing consultant at Amsterdam Data Collective and Data & Impact specialist at Disrupt Development. With a background in the social sciences and international development, she specialises in impact measurement and data-driven transition for social good. She combines her anthropological curiosity with vigorous pragmatism, and brings in expertise on strategy development, data-driven transition and digital innovation to support the work of non-profits, public and private sector alike.
+
