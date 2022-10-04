@@ -58,7 +58,7 @@ Descriptive statistics, Distributions, Probability Theory, Missing data, Outlier
 
 - Trainer
 
-<img align="left" src="https://user-images.githubusercontent.com/42402451/193454425-c71fa116-aaec-4c6c-820c-172b95e00cc3.jpeg" width="200" height="250">
+<img align="left" src="https://user-images.githubusercontent.com/42402451/193454425-c71fa116-aaec-4c6c-820c-172b95e00cc3.jpeg">
 
 [Mateus Girafa Lachtermacher](https://www.linkedin.com/in/mateus-girafa-lachtermacher-8b487110b/?originalSubdomain=br) advocates for social dialogue and evidence-based policymaking in order to improve the SDGs, especially 1 and 2. He specialized in data for economic policies, poverty reduction, financial inclusion, and rural development.
 His role at DIAL is to support the expansion of the Catalog of Digital Solutions and the Digital Principles. Since he entered in March 2022, Mateus has been helping mainly with the open data, playbooks, organizations and products tabs of the Catalog, and on data about the Digital Principles endorsers and the new intake form for potential endorsers. Mateus comes to DIAL with experience in international contexts and multilateral organizations, such as a field research coordinator at USP, Jr Technical Officer at ILO, and data intern at ENPARD, UNDP Georgia’s rural development program. His formation, with an Erasmus Joint Master Degree, was complemented by internships and voluntary experiences across Brazil in the areas of financial democratization, education, and slums development, currently coordinating a voluntary community team in a slum in Duque de Caxias (RJ).
@@ -99,12 +99,24 @@ How do you get people to support your data science solution? And how do you ensu
 
 [Elianne Anemaat](https://www.linkedin.com/in/elianneanemaat/) is a managing consultant at Amsterdam Data Collective and Data & Impact specialist at Disrupt Development. With a background in the social sciences and international development, she specialises in impact measurement and data-driven transition for social good. She combines her anthropological curiosity with vigorous pragmatism, and brings in expertise on strategy development, data-driven transition and digital innovation to support the work of non-profits, public and private sector alike.
 
-###
-###
+<br><\br>
+<br><\br>
 
 ### Week 5
 
 #### Text Mining Specialization
+
+##### Learning to Speak Data
+
+- Session description
+
+Communicating with data can feel like a different language; using numbers and charts invokes a unique power and impact. With more and more decision-making processes centering on data, we need creative new ways for building our data literacy. This session will help you learn that language in fun ways. You’ll walk away with experience moving from data to story, deeper critical understanding of the power of data in communication, and knowledge of tools to help others learn alongside you in your organizations.
+
+- Trainer
+
+<img align="left" src="https://user-images.githubusercontent.com/97888837/193853236-9e2caf84-cea9-414e-af76-5de9b4dbc88a.jpeg" width="200" height="200">
+
+[Dr. Igor Brigadir] (https://www.linkedin.com/in/igorbrigadir/) is an adjunct Research Fellow at University College Dublin, currently working on Information Retrieval and building Recommender Systems at recsyslabs.
 
 ##### Managing Medium Sized Datasets without Making your Brain Melt
 
@@ -114,6 +126,8 @@ Small datasets can usually be loaded entirely into memory, even on commodity har
 
 - Trainer
 
-<img align="left" src="https://user-images.githubusercontent.com/97888837/193853236-9e2caf84-cea9-414e-af76-5de9b4dbc88a.jpeg" width="200" height="200">
+<img align="left" src=https://user-images.githubusercontent.com/97888837/193855957-ba5ac62a-dc2a-4ea2-93a2-77fe3df7a4f2.png" width="200" height="200">
 
-[Dr. Igor Brigadir] (https://www.linkedin.com/in/igorbrigadir/) is an adjunct Research Fellow at University College Dublin, currently working on Information Retrieval and building Recommender Systems at recsyslabs.
+[Rahul Bhargava] (https://www.linkedin.com/in/rahulbot/)  is an educator, researcher, designer, and facilitator who works and publishes on data storytelling and technology design in support of social justice and community empowerment. He is currently an Assistant Professor of Journalism and Art + Design at Northeastern University. .
+
+
