@@ -78,7 +78,7 @@ His role at DIAL is to support the expansion of the Catalog of Digital Solutions
 To be updated
  
 - Trainer 
-<img align="left" src="https://user-images.githubusercontent.com/97888837/193860054-7182513d-64d2-4527-8b7f-0a175fe12f93.jpg>
+<img align="center" src="https://user-images.githubusercontent.com/97888837/193860054-7182513d-64d2-4527-8b7f-0a175fe12f93.jpg">
 
 
 [Arjumand Younus](https://www.linkedin.com/in/arjumand-younus-b6437a7/) is an Assistant Professor of Computational Social Science at University College Dublin (UCD). Before returning to UCD, Prof. Arjumand Younus worked as a Research Scientist in Afiniti AI, and a part-time lecturer at Technological University Dublin. Arjumand has contributed to SFI funded projects during her different post-doctoral positions at CONSUS-UCD and INSIGHT-UCD. She is also serving in the capacity of co-director for Women in Research Ireland which is a volunteer-run registered charity working for better representation of women and under-represented groups in academia.
@@ -95,7 +95,7 @@ How do you get people to support your data science solution? And how do you ensu
  
 - Trainer 
 
-<img align="left" src="https://user-images.githubusercontent.com/42402451/193450715-40ec59c8-d6bc-43e5-8982-e9a3319728bf.png" width="200" height="200">
+<img align="center" src="https://user-images.githubusercontent.com/42402451/193450715-40ec59c8-d6bc-43e5-8982-e9a3319728bf.png" width="200" height="200">
 
 [Elianne Anemaat](https://www.linkedin.com/in/elianneanemaat/) is a managing consultant at Amsterdam Data Collective and Data & Impact specialist at Disrupt Development. With a background in the social sciences and international development, she specialises in impact measurement and data-driven transition for social good. She combines her anthropological curiosity with vigorous pragmatism, and brings in expertise on strategy development, data-driven transition and digital innovation to support the work of non-profits, public and private sector alike.
 
@@ -111,7 +111,7 @@ Communicating with data can feel like a different language; using numbers and ch
 
 - Trainer
 
-<img align="left" src="https://user-images.githubusercontent.com/97888837/193855957-ba5ac62a-dc2a-4ea2-93a2-77fe3df7a4f2.png" width="200" height="200">
+<img align="center" src="https://user-images.githubusercontent.com/97888837/193855957-ba5ac62a-dc2a-4ea2-93a2-77fe3df7a4f2.png" width="200" height="200">
 
 [Rahul Bhargava] (https://www.linkedin.com/in/rahulbot/)  is an educator, researcher, designer, and facilitator who works and publishes on data storytelling and technology design in support of social justice and community empowerment. He is currently an Assistant Professor of Journalism and Art + Design at Northeastern University.
 
@@ -124,7 +124,7 @@ In this session we will introduce key approaches for personalization and will ha
 
 - Trainer
 
-<img align="left" src="https://user-images.githubusercontent.com/97888837/193858278-7cd28a56-d042-4147-94c4-9a1be624517c.jpg" width="190" height="200">
+<img align="center" src="https://user-images.githubusercontent.com/97888837/193858278-7cd28a56-d042-4147-94c4-9a1be624517c.jpg" width="190" height="200">
 
 [Ernesto Diaz-Aviles] (https://www.linkedin.com/in/ernesto-diaz-aviles/?originalSubdomain=ie) is the Co-Founder and CEO of Libre AI and recsyslabs. He leads efforts to make the benefits of AI and Machine Learning accessible to more people. Scientist and engineer with over 15 years of experience deploying AI/ML and Data-driven solutions at scale. Former Citibank Innovation Lab Chief Data Scientist, IBM Research Staff Member, and L3S Research Center Fellow.
 
@@ -139,7 +139,7 @@ Small datasets can usually be loaded entirely into memory, even on commodity har
 
 - Trainer
 
-<img align="left" src="https://user-images.githubusercontent.com/97888837/193853236-9e2caf84-cea9-414e-af76-5de9b4dbc88a.jpeg" width="200" height="200">
+<img align="center" src="https://user-images.githubusercontent.com/97888837/193853236-9e2caf84-cea9-414e-af76-5de9b4dbc88a.jpeg" width="200" height="200">
 
 [Dr. Igor Brigadir] (https://www.linkedin.com/in/igorbrigadir/) is an adjunct Research Fellow at University College Dublin, currently working on Information Retrieval and building Recommender Systems at recsyslabs.
 
