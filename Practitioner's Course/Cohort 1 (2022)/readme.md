@@ -79,7 +79,7 @@ To be updated
  
 - Trainer 
 
-<img align="left" src="![headshot_arjumandyounus](https://user-images.githubusercontent.com/97888837/193851854-49410508-5933-492e-957f-a598aa146b7a.jpg)" width="200" height="200">
+<img align="left" src="https://user-images.githubusercontent.com/97888837/193851854-49410508-5933-492e-957f-a598aa146b7a.jpg" width="200" height="200">
 
 [Arjumand Younus](https://www.linkedin.com/in/arjumand-younus-b6437a7/) is an Assistant Professor of Computational Social Science at University College Dublin (UCD). Before returning to UCD, Prof. Arjumand Younus worked as a Research Scientist in Afiniti AI, and a part-time lecturer at Technological University Dublin. Arjumand has contributed to SFI funded projects during her different post-doctoral positions at CONSUS-UCD and INSIGHT-UCD. She is also serving in the capacity of co-director for Women in Research Ireland which is a volunteer-run registered charity working for better representation of women and under-represented groups in academia.
 
@@ -99,3 +99,18 @@ How do you get people to support your data science solution? And how do you ensu
 
 [Elianne Anemaat](https://www.linkedin.com/in/elianneanemaat/) is a managing consultant at Amsterdam Data Collective and Data & Impact specialist at Disrupt Development. With a background in the social sciences and international development, she specialises in impact measurement and data-driven transition for social good. She combines her anthropological curiosity with vigorous pragmatism, and brings in expertise on strategy development, data-driven transition and digital innovation to support the work of non-profits, public and private sector alike.
 
+### Week 5
+
+#### Text Mining Specialization
+
+##### Managing Medium Sized Datasets without Making your Brain Melt
+
+- Session description
+
+Small datasets can usually be loaded entirely into memory, even on commodity hardware, and working with very large datasets usually calls for distributed computation approaches. Somewhere in the middle however, are cases where there is too much to work with on a single machine, but a distributed approach isn't justified with cost or complexity. This tutorial explores tricks and techniques for working with this kind of "medium" sized data, that's too big to trivially process, but not big enough to warrant a more complex deployment.
+
+- Trainer
+
+![igor_headshot](https://user-images.githubusercontent.com/97888837/193853236-9e2caf84-cea9-414e-af76-5de9b4dbc88a.jpeg)
+
+[Dr. Igor Brigadir] (https://www.linkedin.com/in/igorbrigadir/) is an adjunct Research Fellow at University College Dublin, currently working on Information Retrieval and building Recommender Systems at recsyslabs.
