@@ -58,7 +58,7 @@ Descriptive statistics, Distributions, Probability Theory, Missing data, Outlier
 
 - Trainer
 
-<img align="left" src="https://user-images.githubusercontent.com/42402451/193454425-c71fa116-aaec-4c6c-820c-172b95e00cc3.jpeg" width="200" height="210">
+<img align="left" src="https://user-images.githubusercontent.com/42402451/193454425-c71fa116-aaec-4c6c-820c-172b95e00cc3.jpeg" width="190" height="210">
 
 [Mateus Girafa Lachtermacher](https://www.linkedin.com/in/mateus-girafa-lachtermacher-8b487110b/?originalSubdomain=br) advocates for social dialogue and evidence-based policymaking in order to improve the SDGs, especially 1 and 2. He specialized in data for economic policies, poverty reduction, financial inclusion, and rural development.
 His role at DIAL is to support the expansion of the Catalog of Digital Solutions and the Digital Principles. Since he entered in March 2022, Mateus has been helping mainly with the open data, playbooks, organizations and products tabs of the Catalog, and on data about the Digital Principles endorsers and the new intake form for potential endorsers. Mateus comes to DIAL with experience in international contexts and multilateral organizations, such as a field research coordinator at USP, Jr Technical Officer at ILO, and data intern at ENPARD, UNDP Georgia’s rural development program. His formation, with an Erasmus Joint Master Degree, was complemented by internships and voluntary experiences across Brazil in the areas of financial democratization, education, and slums development, currently coordinating a voluntary community team in a slum in Duque de Caxias (RJ).
@@ -78,8 +78,8 @@ His role at DIAL is to support the expansion of the Catalog of Digital Solutions
 To be updated
  
 - Trainer 
+<img align="left" src="https://user-images.githubusercontent.com/97888837/193860054-7182513d-64d2-4527-8b7f-0a175fe12f93.jpg>
 
-<img align="left" src="https://user-images.githubusercontent.com/97888837/193851854-49410508-5933-492e-957f-a598aa146b7a.jpg">
 
 [Arjumand Younus](https://www.linkedin.com/in/arjumand-younus-b6437a7/) is an Assistant Professor of Computational Social Science at University College Dublin (UCD). Before returning to UCD, Prof. Arjumand Younus worked as a Research Scientist in Afiniti AI, and a part-time lecturer at Technological University Dublin. Arjumand has contributed to SFI funded projects during her different post-doctoral positions at CONSUS-UCD and INSIGHT-UCD. She is also serving in the capacity of co-director for Women in Research Ireland which is a volunteer-run registered charity working for better representation of women and under-represented groups in academia.
 
@@ -99,9 +99,6 @@ How do you get people to support your data science solution? And how do you ensu
 
 [Elianne Anemaat](https://www.linkedin.com/in/elianneanemaat/) is a managing consultant at Amsterdam Data Collective and Data & Impact specialist at Disrupt Development. With a background in the social sciences and international development, she specialises in impact measurement and data-driven transition for social good. She combines her anthropological curiosity with vigorous pragmatism, and brings in expertise on strategy development, data-driven transition and digital innovation to support the work of non-profits, public and private sector alike.
 
-<br><\br>
-<br><\br>
-
 ### Week 5
 
 #### Text Mining Specialization
@@ -118,8 +115,6 @@ Communicating with data can feel like a different language; using numbers and ch
 
 [Rahul Bhargava] (https://www.linkedin.com/in/rahulbot/)  is an educator, researcher, designer, and facilitator who works and publishes on data storytelling and technology design in support of social justice and community empowerment. He is currently an Assistant Professor of Journalism and Art + Design at Northeastern University.
 
-&NewLine;
-&NewLine;
 
 ##### Privacy-aware Personalization using Text Embeddings
 
@@ -129,14 +124,12 @@ In this session we will introduce key approaches for personalization and will ha
 
 - Trainer
 
-<img align="left" src="https://user-images.githubusercontent.com/97888837/193858278-7cd28a56-d042-4147-94c4-9a1be624517c.jpg" width="200" height="200">
+<img align="left" src="https://user-images.githubusercontent.com/97888837/193858278-7cd28a56-d042-4147-94c4-9a1be624517c.jpg" width="190" height="200">
 
 [Ernesto Diaz-Aviles] (https://www.linkedin.com/in/ernesto-diaz-aviles/?originalSubdomain=ie) is the Co-Founder and CEO of Libre AI and recsyslabs. He leads efforts to make the benefits of AI and Machine Learning accessible to more people. Scientist and engineer with over 15 years of experience deploying AI/ML and Data-driven solutions at scale. Former Citibank Innovation Lab Chief Data Scientist, IBM Research Staff Member, and L3S Research Center Fellow.
 
 Ernesto holds a PhD in Computer Science from the L3S Research Center, in the University of Hannover, Germany, a MSc in Computer Science from the University of Freiburg, Germany, and a BSc in Electrical Engineering from the Central American University (UCA), El Salvador. He is from El Salvador, a Kaggle Master, and a chocoholic.
 
-&NewLine;
-&NewLine;
 
 ##### Managing Medium Sized Datasets without Making your Brain Melt
 
