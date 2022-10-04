@@ -113,7 +113,7 @@ Communicating with data can feel like a different language; using numbers and ch
 
 <img align="center" src="https://user-images.githubusercontent.com/97888837/193855957-ba5ac62a-dc2a-4ea2-93a2-77fe3df7a4f2.png" width="200" height="200">
 
-[Rahul Bhargava] (https://www.linkedin.com/in/rahulbot/)  is an educator, researcher, designer, and facilitator who works and publishes on data storytelling and technology design in support of social justice and community empowerment. He is currently an Assistant Professor of Journalism and Art + Design at Northeastern University.
+[Rahul Bhargava](https://www.linkedin.com/in/rahulbot/)  is an educator, researcher, designer, and facilitator who works and publishes on data storytelling and technology design in support of social justice and community empowerment. He is currently an Assistant Professor of Journalism and Art + Design at Northeastern University.
 
 
 ##### Privacy-aware Personalization using Text Embeddings
@@ -126,7 +126,7 @@ In this session we will introduce key approaches for personalization and will ha
 
 <img align="center" src="https://user-images.githubusercontent.com/97888837/193858278-7cd28a56-d042-4147-94c4-9a1be624517c.jpg" width="190" height="200">
 
-[Ernesto Diaz-Aviles] (https://www.linkedin.com/in/ernesto-diaz-aviles/?originalSubdomain=ie) is the Co-Founder and CEO of Libre AI and recsyslabs. He leads efforts to make the benefits of AI and Machine Learning accessible to more people. Scientist and engineer with over 15 years of experience deploying AI/ML and Data-driven solutions at scale. Former Citibank Innovation Lab Chief Data Scientist, IBM Research Staff Member, and L3S Research Center Fellow.
+[Ernesto Diaz-Aviles](https://www.linkedin.com/in/ernesto-diaz-aviles/?originalSubdomain=ie) is the Co-Founder and CEO of Libre AI and recsyslabs. He leads efforts to make the benefits of AI and Machine Learning accessible to more people. Scientist and engineer with over 15 years of experience deploying AI/ML and Data-driven solutions at scale. Former Citibank Innovation Lab Chief Data Scientist, IBM Research Staff Member, and L3S Research Center Fellow.
 
 Ernesto holds a PhD in Computer Science from the L3S Research Center, in the University of Hannover, Germany, a MSc in Computer Science from the University of Freiburg, Germany, and a BSc in Electrical Engineering from the Central American University (UCA), El Salvador. He is from El Salvador, a Kaggle Master, and a chocoholic.
 
@@ -141,6 +141,6 @@ Small datasets can usually be loaded entirely into memory, even on commodity har
 
 <img align="center" src="https://user-images.githubusercontent.com/97888837/193853236-9e2caf84-cea9-414e-af76-5de9b4dbc88a.jpeg" width="200" height="200">
 
-[Dr. Igor Brigadir] (https://www.linkedin.com/in/igorbrigadir/) is an adjunct Research Fellow at University College Dublin, currently working on Information Retrieval and building Recommender Systems at recsyslabs.
+[Dr. Igor Brigadir](https://www.linkedin.com/in/igorbrigadir/) is an adjunct Research Fellow at University College Dublin, currently working on Information Retrieval and building Recommender Systems at recsyslabs.
 
 
