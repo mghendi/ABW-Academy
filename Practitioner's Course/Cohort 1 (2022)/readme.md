@@ -79,9 +79,10 @@ To be updated
  
 - Trainer 
 
-<img align="left" src="https://user-images.githubusercontent.com/42402451/193450715-40ec59c8-d6bc-43e5-8982-e9a3319728bf.png" width="200" height="200">
+<img align="left" src="" width="200" height="200">
 
-[Arjumand Younus](https://www.linkedin.com/in/arjumand-younus-b6437a7/) is an Assistant Professor of Computational Social Science at University College Dublin (UCD). Before returning to UCD, Prof. Arjumand Younus worked as a Research Scientist in Afiniti AI, and a part-time lecturer at Technological University Dublin. Arjumand has contributed to SFI funded projects during her different post-doctoral positions at CONSUS-UCD and INSIGHT-UCD. She is also serving in the capacity of co-director for Women in Research Ireland which is a volunteer-run registered charity working for better representation of women and under-represented groups in academia.
+[Arjumand Younus](https://www.linkedin![headshot_arjumandyounus](https://user-images.githubusercontent.com/97888837/193851340-9a5967cd-b342-418f-8380-b99045ced49b.jpg)
+.com/in/arjumand-younus-b6437a7/) is an Assistant Professor of Computational Social Science at University College Dublin (UCD). Before returning to UCD, Prof. Arjumand Younus worked as a Research Scientist in Afiniti AI, and a part-time lecturer at Technological University Dublin. Arjumand has contributed to SFI funded projects during her different post-doctoral positions at CONSUS-UCD and INSIGHT-UCD. She is also serving in the capacity of co-director for Women in Research Ireland which is a volunteer-run registered charity working for better representation of women and under-represented groups in academia.
 
 Arjumand received a joint PhD in Computer Science from National University of Ireland Galway (Ireland) and University of Milano-Bicocca (Italy), MS degree in Computer Science from Korea Advanced Institute of Science and Technology (South Korea), and BS in Computer Science from the University of Karachi (Pakistan). Her research focuses on Machine Learning, Natural Language Processing, and Data Science for Social Good. Arjumand is passionate about the value of artificial intelligence technology to make society better, and at the moment is involved as an academic partner in various AI for Social Good projects.
 
