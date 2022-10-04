@@ -111,6 +111,6 @@ Small datasets can usually be loaded entirely into memory, even on commodity har
 
 - Trainer
 
-![igor_headshot](https://user-images.githubusercontent.com/97888837/193853236-9e2caf84-cea9-414e-af76-5de9b4dbc88a.jpeg)
+<img align="left" src="https://user-images.githubusercontent.com/97888837/193853236-9e2caf84-cea9-414e-af76-5de9b4dbc88a.jpeg" width="200" height="200">
 
 [Dr. Igor Brigadir] (https://www.linkedin.com/in/igorbrigadir/) is an adjunct Research Fellow at University College Dublin, currently working on Information Retrieval and building Recommender Systems at recsyslabs.
