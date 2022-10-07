@@ -50,9 +50,8 @@ Descriptive statistics, Distributions, Probability Theory, Missing data, Outlier
 
 - Trainer
 
-#### Version control with GitHub for Data Scientists
+#### Version control with Git for Data Scientists
 
-#### Basics of SQL and NoSQL Databases
 
 #### Principles of Digital Development
 
@@ -78,12 +77,14 @@ His role at DIAL is to support the expansion of the Catalog of Digital Solutions
 To be updated
  
 - Trainer 
-<img align="center" src="https://user-images.githubusercontent.com/97888837/193860054-7182513d-64d2-4527-8b7f-0a175fe12f93.jpg">
+<img align="left" src="https://user-images.githubusercontent.com/97888837/193860054-7182513d-64d2-4527-8b7f-0a175fe12f93.jpg">
 
 
 [Arjumand Younus](https://www.linkedin.com/in/arjumand-younus-b6437a7/) is an Assistant Professor of Computational Social Science at University College Dublin (UCD). Before returning to UCD, Prof. Arjumand Younus worked as a Research Scientist in Afiniti AI, and a part-time lecturer at Technological University Dublin. Arjumand has contributed to SFI funded projects during her different post-doctoral positions at CONSUS-UCD and INSIGHT-UCD. She is also serving in the capacity of co-director for Women in Research Ireland which is a volunteer-run registered charity working for better representation of women and under-represented groups in academia.
 
 Arjumand received a joint PhD in Computer Science from National University of Ireland Galway (Ireland) and University of Milano-Bicocca (Italy), MS degree in Computer Science from Korea Advanced Institute of Science and Technology (South Korea), and BS in Computer Science from the University of Karachi (Pakistan). Her research focuses on Machine Learning, Natural Language Processing, and Data Science for Social Good. Arjumand is passionate about the value of artificial intelligence technology to make society better, and at the moment is involved as an academic partner in various AI for Social Good projects.
+
+<br/>
 
 ### Week 4
 
