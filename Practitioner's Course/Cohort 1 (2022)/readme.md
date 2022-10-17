@@ -74,7 +74,17 @@ His role at DIAL is to support the expansion of the Catalog of Digital Solutions
 
 - Session description 
 
-To be updated
+The terms deep learning and neural network are used almost interchangeably in AI. There has also been a great deal of hype and mystery around these terms, and this session aims to demystify deep learning so that you have a sense of what deep learning and neural networks really are.
+
+Furthermore, by providing a walkthrough using real-world examples where deep learning yielded immense success we will see how to use it as a data scientist working on social good projects.
+
+- Learning Goals
+
+Appreciate the value deep learning adds to the machine learning suite
+
+Why deep learning works so well, and what are some pre-requisites for it to work well
+
+Awareness of toolkits and resources to get up to speed in application of deep learning
  
 - Trainer 
 <img align="left" src="https://user-images.githubusercontent.com/97888837/193860054-7182513d-64d2-4527-8b7f-0a175fe12f93.jpg">
