@@ -98,20 +98,6 @@ Arjumand received a joint PhD in Computer Science from National University of Ir
 
 ### Week 4
 
-#### Stakeholder Communication
-
-- Session description 
-
-How do you get people to support your data science solution? And how do you ensure that decision makers can use the insights that come from your data? Effective communication can help you to get management, colleagues and other stakeholders on board with your data science project. In this session, you will learn the most important practices in engaging your stakeholders and apply this to your own data science project.
- 
-- Trainer 
-
-<img align="center" src="https://user-images.githubusercontent.com/42402451/193450715-40ec59c8-d6bc-43e5-8982-e9a3319728bf.png" width="200" height="200">
-
-[Elianne Anemaat](https://www.linkedin.com/in/elianneanemaat/) is a managing consultant at Amsterdam Data Collective and Data & Impact specialist at Disrupt Development. With a background in the social sciences and international development, she specialises in impact measurement and data-driven transition for social good. She combines her anthropological curiosity with vigorous pragmatism, and brings in expertise on strategy development, data-driven transition and digital innovation to support the work of non-profits, public and private sector alike.
-
-### Week 5
-
 #### Text Mining Specialization
 
 ##### Learning to Speak Data
@@ -153,5 +139,19 @@ Small datasets can usually be loaded entirely into memory, even on commodity har
 <img align="center" src="https://user-images.githubusercontent.com/97888837/193853236-9e2caf84-cea9-414e-af76-5de9b4dbc88a.jpeg" width="200" height="200">
 
 [Dr. Igor Brigadir](https://www.linkedin.com/in/igorbrigadir/) is an adjunct Research Fellow at University College Dublin, currently working on Information Retrieval and building Recommender Systems at recsyslabs.
+
+### Week 6
+
+#### Stakeholder Communication
+
+- Session description 
+
+How do you get people to support your data science solution? And how do you ensure that decision makers can use the insights that come from your data? Effective communication can help you to get management, colleagues and other stakeholders on board with your data science project. In this session, you will learn the most important practices in engaging your stakeholders and apply this to your own data science project.
+ 
+- Trainer 
+
+<img align="center" src="https://user-images.githubusercontent.com/42402451/193450715-40ec59c8-d6bc-43e5-8982-e9a3319728bf.png" width="200" height="200">
+
+[Elianne Anemaat](https://www.linkedin.com/in/elianneanemaat/) is a managing consultant at Amsterdam Data Collective and Data & Impact specialist at Disrupt Development. With a background in the social sciences and international development, she specialises in impact measurement and data-driven transition for social good. She combines her anthropological curiosity with vigorous pragmatism, and brings in expertise on strategy development, data-driven transition and digital innovation to support the work of non-profits, public and private sector alike.
 
 
