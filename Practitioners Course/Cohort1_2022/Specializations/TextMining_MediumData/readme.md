@@ -1,0 +1,3 @@
+# Managing Medium Sized Datasets without Making your Brain Melt
+
+Small datasets can usually be loaded entirely into memory, even on commodity hardware, and working with very large datasets usually calls for distributed computation approaches. Somewhere in the middle however, are cases where there is too much to work with on a single machine, but a distributed approach isn't justified with cost or complexity. This tutorial explores tricks and techniques for working with this kind of "medium" sized data, that's too big to trivially process, but not big enough to warrant a more complex deployment.
