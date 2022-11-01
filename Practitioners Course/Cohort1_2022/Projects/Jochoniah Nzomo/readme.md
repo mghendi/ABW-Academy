@@ -1,4 +1,4 @@
-## Project Title
+## Using Proxy Means Testing scores to determine vulnerable households at a risk of realizing universal health coverage in select counties, Kenya
 
 ******* TO BE FILLED BEFORE November 04, 2022 ***********
 
