@@ -1,5 +1,4 @@
-## Project Title
-
+## Data processing and visualization using Mongolian Graduation Pilot Program data
 ******* TO BE FILLED BEFORE November 04, 2022 ***********
 
 #### Background information
