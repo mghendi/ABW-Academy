@@ -1,7 +1,5 @@
 ## Reach analysis for Dutch districts
 
-******* TO BE FILLED BEFORE November 04, 2022 ***********
-
 #### Background information
 When emergencies occur in the Netherlands, the Red Cross can be called to action by the govermental regions to be present with a team of volunteers. Within each district, there is a pool of volunteers, team leads, and chauffeurs that can be paged when an emergency occurs. They will assemble at a certain location and will be picked up by the chauffeur with a Red Cross car to drive to the location. The Netherlands Red Cross aims to be present with this team within 45 minutes. 
 
