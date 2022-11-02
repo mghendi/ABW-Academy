@@ -27,13 +27,24 @@ To determine and apply methods that could further process through working on the
 
 #### Who will be using the results of this project and for making what decisions?
 
+The Graduation Pilot Program Team - the data analysis and visualisation will support us to understand the current context and the situation of the households and basic of the program implementation. Also, the processed data will influence to the program direction and focus. For example, based on the experience and interest of the household, what type of Livelihood training should be organized in the future or determining what type of information to provide to the household based on the environment of the household, etc.
+
+The Graduation Pilot Program Unit both at the Asian Development Bank and the Ministry of Labor and Social Protection - This current program is a pilot program implemented for the first time in Mongolia, and based on the context of Mongolia, a model of the program will be developed and implemented in other districts and provinces. If the methodology/approach used in this project is tested well, it will be used as a model program in the future.
+
 Identify atleast 2 collaborators from your organization who will support you by providing
-- Nomin Orgodol, Head of Health and Social Protection Department at MRCS, Team, what is their persona for this project?
-- Enkhtsetseg Tudev, Mongolian Graduation Pilot Program Manager at MRCS, Team, what is their persona for this project?
+
+- Nomin Orgodol, Head of Health and Social Protection Department at MRCS, technical support
+- Enkhtsetseg Tudev, Mongolian Graduation Pilot Program Manager at MRCS, technical support
 
 #### Expected Deliverables
+
+- Processed/Analysed data
+- Visualized data/information
+- Suggestion for further methods on data processing 
 
 #### Mentors (This will be added by ABW Team)
 
 #### References
 
+- Nomin Orgodol, Head of Health and Social Protection Department at MRCS 
+- Enkhtsetseg Tudev, Mongolian Graduation Pilot Program Manager at MRCS
