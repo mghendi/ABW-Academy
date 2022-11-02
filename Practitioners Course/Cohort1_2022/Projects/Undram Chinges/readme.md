@@ -41,6 +41,7 @@ Identify atleast 2 collaborators from your organization who will support you by 
 - Processed/Analysed data
 - Visualized data/information
 - Suggestion for further methods on data processing 
+- Project report/introduction
 
 #### Mentors (This will be added by ABW Team)
 
