@@ -23,6 +23,8 @@
 
 #### Goal of the project
 
+To determine and apply methods that could further process through working on the Big data of the Household Verification Survey of the Graduation Pilot Program and performing analysis and data visualization on the data;
+
 #### Who will be using the results of this project and for making what decisions?
 
 Identify atleast 2 collaborators from your organization who will support you by providing
