@@ -5,5 +5,6 @@ Abstract: In this session we will introduce key approaches for personalization a
 ## Resources to `paper-rec` demo:
 
 - `paper-rec` recommender library using huggingface_hub library for downstream support: https://github.com/bluebalam/paper-rec 
+    - Demo Notebook: https://github.com/bluebalam/paper-rec/blob/main/notebooks/abw-sentence-transformer.ipynb 
 - Dataset: https://huggingface.co/bluebalam/paper-rec 
 - Demo: https://huggingface.co/spaces/bluebalam/paper-rec 
