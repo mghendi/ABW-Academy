@@ -10,7 +10,9 @@ The Goal of this project is to streamline and automate the prediction of househo
 The solution will target the county government leadership, non-governmental organizations and the departments of social protections to allow them make informed decisions when implementing safety net programes. 
 
 Identify atleast 2 collaborators from your organization who will support you by providing
+
 Peter Otieno, Digital Health lead, AMREF HEALTH INNOVATIONS
+
 Bill Olwenda, Health Financing Specialist, AMREF HEALTH INNOVATIONS
 
 #### Expected Deliverables
