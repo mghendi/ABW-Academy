@@ -1,6 +1,6 @@
-### Mapping Digital Divide in the Philippines for Community-Based Education Platform Strategy
+## Mapping Digital Divide in the Philippines for Community-Based Education Platform Strategy
 
-#### Background information
+### Background information
 ##### KadaKareer Background
 - KadaKareer is a free low-bandwidth, community-based career development platform for underserved students in the Philippines launching their digital careers. KadaKareer’s platforms include Career Explorer and Coach Connector which allow students to learn about different careers while getting expert advice and support from Coaches in their fields of interest. To date, Kadakareer has engaged with 15k+ students and 40+ partners through our platform, webinars, and workshops. "Kada" comes from the word barkada, which means a group of friends. We are a Filipino student cheerleader, coach, and support group throughout their entire career journey!
 
@@ -13,16 +13,16 @@ respectively). Unfortunately, these rates decline in secondary schools, then eve
 
 - This digital divide, between people with and without access to internet, contributes to unequal access to services that are delivered via the internet. For example, in 2016, the Department of Education found that around 74 percent of 46,700 public schools nationwide are unable to connect to internet facilities in their communities, despite having the budget allocation from the government (DepEd, 2016).25 About 70 percent or 34,500 of these schools without internet connectivity have electricity.26 One explanation for this is the lack of fixed infrastructure that is necessary to connect institutions or feed enough bandwidth to the mobile networks that reach those areas. Investment in fiber optic networks in the country is quite recent and there has been no massive effort to connect those outside the urban centers and high-income communities, unlike in other Asian countries such as Indonesia and Vietnam. Infrastructure sharing arrangements— which would lower the cost of fixed broadband deployment—are also not in place. This is discussed in more detail below. The Philippines is also on the wrong side of the regional ‘digital divide’. Compared to its middle-income ASEAN neighbors, fixed and mobile broadband internet penetration in the Philippines are relatively low. 
 
-#### Goal of the project
+### Goal of the project
 To map and visualize areas with no to slow internet in the Philippines in order to help students in their career exploration amidst the digital divide through community-based programs/platforms. 
 
-#### Who will be using the results of this project and for making what decisions?
+### Who will be using the results of this project and for making what decisions?
 
 Identify atleast 2 collaborators from your organization who will support you by providing
 - Michi Ferreol, Co-Founder and Strategy Lead, Business Owner/Stakeholder
 - Neil Riego, Kommander Engagement Mission Specialist (Intern), Data Analyst or End-User
 
-#### Expected Deliverables
+### Expected Deliverables
 - Architecture of the project
 - Research of tools and methods
 - Data gathering
@@ -31,9 +31,9 @@ Identify atleast 2 collaborators from your organization who will support you by 
 - (Stretch) Google sheet input on KadaKareer location touchpoints
 - (Stretch) Visualize KadaKareer location touchpoints in the map
 
-#### Mentors (This will be added by ABW Team)
+### Mentors (This will be added by ABW Team)
 
-#### References
+### References
 - kadakareer.com and its internal whitepaper
 - https://stories.thinkingmachin.es/mapping-digital-poverty-in-the-philippines/
 - https://openknowledge.worldbank.org/handle/10986/34606
