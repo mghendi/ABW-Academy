@@ -1,7 +1,4 @@
-#### Project Title
-Mapping Digital Divide in the Philippines for Community-Based Education Platform Strategy
-
-******* TO BE FILLED BEFORE November 04, 2022 ***********
+#### Mapping Digital Divide in the Philippines for Community-Based Education Platform Strategy
 
 #### Background information
 ##### KadaKareer Background
