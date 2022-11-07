@@ -1,7 +1,5 @@
 ## Project Title
 
-******* TO BE FILLED BEFORE November 04, 2022 ***********
-
 #### Background information
 
 #### Goal of the project
