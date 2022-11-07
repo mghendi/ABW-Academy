@@ -1,4 +1,4 @@
-#### Mapping Digital Divide in the Philippines for Community-Based Education Platform Strategy
+### Mapping Digital Divide in the Philippines for Community-Based Education Platform Strategy
 
 #### Background information
 ##### KadaKareer Background
