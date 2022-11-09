@@ -9,7 +9,9 @@ This project can be used by policymakers, Nigerian police force and other securi
 
 Identify atleast 2 collaborators from your organization who will support you by providing
 - Name, Title, Team, what is their persona for this project?
+- Tamara-Dise Anna Berepubo, Programs Officer
 - Name, Title, Team, what is their persona for this project?
+- Godwin Agaba Ochube, Strategic Relations Officer
 
 #### Expected Deliverables
 
