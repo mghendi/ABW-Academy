@@ -1,6 +1,4 @@
-## Project Title
-
-AI for Optimizing Plastic Waste Collection in Nairobi, Kenya
+## AI for Optimizing Plastic Waste Collection in Nairobi, Kenya
 
 #### Background information
 
