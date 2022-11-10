@@ -10,10 +10,10 @@ to achieving meaningful socio-economic development in Nigeria. In recent time, N
 
 
 #### Goal of the project
-To identify types of crimes prevalent in Nigeria 
-To Predict crime-rates 
-To Predict hot-spots or places with a likelihood for crimes 
-To partner with relevant stakeholders in crime prevention
+- To identify types of crimes prevalent in Nigeria 
+- To Predict crime-rates 
+- To Predict hot-spots or places with a likelihood for crimes 
+- To partner with relevant stakeholders in crime prevention
 
 #### Who will be using the results of this project and for making what decisions?
 This project can be used by policymakers, Nigerian police force and other security agencies to make effective and informed strategies that can curtail criminal activities and contribute to the nation’s development and also for citizens to know where the criminal activities is taking place in order to take necessary precausions.
