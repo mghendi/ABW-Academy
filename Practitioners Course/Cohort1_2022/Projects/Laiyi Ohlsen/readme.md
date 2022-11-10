@@ -1,6 +1,4 @@
-## Project Title
-
-M-Lab Data Dashboard
+## M-Lab Data Dashboard
 
 #### Background information
 
