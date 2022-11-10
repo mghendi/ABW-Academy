@@ -1,8 +1,18 @@
 ## Cohort 1 Projects
 
+- [Segmentation of medium resolution Satellite imagery through the application of AI (CNN), for detecting roads, Benson Gachaga](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Benson%20Gachaga)
+- [Mapping the Convergence of Selected Activities in Health Facility Catchment Areas on the SUN TA Project using Python, Cynthia Muyunda](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Cynthia%20Muyunda)
+- [Mapping Digital Divide in the Philippines for Community-Based Education Platform Strategy, Dana Kathleen](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Dana%20Kathleen)
+- [Situation analyis for the resilience programme in Tanzania, Frank Thomas](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Frank%20Thomas/readme.md)
 - [Identifying suitable locations for borehole sampling in West Darfur, Sudan, Heleen Elenbaas](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Heleen%20Elenbaas)
 - [German Red Cross Global Operations Dashboard, Hussam Saeid](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Hussam%20Saeid)
+- [Using Proxy Means Testing scores to determine vulnerable households at a risk of realizing universal health coverage in select counties, Kenya, Jochnoniah](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Jochoniah%20Nzomo)
+- [M-Lab Data Dashboard, Laiyi Ohlsen](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Laiyi%20Ohlsen/readme.md)
+- [UNRWA Historic Archive Project Dashboard, Mahmoud Elsheikh Issa](https://github.com/Analytics-for-a-Better-World/ABW-Academy/edit/main/Practitioners%20Course/Cohort1_2022/Projects/Mahmoud%20Elsheikh%20Issa/readme.md)
+- [Sentiment around Oxfam Novib Brand, Marieke Meeske](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Marieke%20Meeske)
 - [Reach analysis for Dutch districts, Marije Jochemsen](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Marije%20Jochemsen)
+- [Crime Prediction and hotspot identification in Nigeria, Mukhthar Abdulhameed](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Mukhtar%20Abdulhameed/readme.md)
+- [Finding suitable Environment for Ebola Index Case Occurance and Optimal Allocation of Resources, Sahand Tahir](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Sahand%20Tahir/readme.md)
 - [AI for Optimizing Plastic Waste Collection in Nairobi, Kenya,Samuel Mwamburi Mghendi](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Samuel%20Mwamburi%20Mghendi)
 - [Data Wrangling and Visualization within Graduation Pilot Program in Mongolia, Undram Chinges](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Undram%20Chinges)
-- [Segmentation of medium resolution Satellite imagery through the application of AI (CNN), for detecting roads, Benson Gachaga](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Benson%20Gachaga)
+
