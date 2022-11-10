@@ -1,4 +1,4 @@
-## Project Title
+## Segmentation of medium resolution Satellite imagery through the application of AI (CNN), for detecting roads
 
 #### Background information
 The demand for the provision of innovative Image Analysis and Image Intelligence Service (hear after IMINT Service) in the United Nations has been drastically growing in support of decision-making processes for effective UN operations in the field and at UNHQ. It is related to the missions’ requirements to enhance operations and provide capabilities for monitoring and situational awareness. In the UNHQ this demand is focusing on the provision of evidence of various events in the area of UN interests; provision of various analysis and assessments for reporting, planning, and decision-making processes. 				 
