@@ -1,5 +1,4 @@
-## Project Title
-Situation analyis for the resilience programme in Tanzania
+## Situation analyis for the resilience programme in Tanzania
 
 #### Background information
 
