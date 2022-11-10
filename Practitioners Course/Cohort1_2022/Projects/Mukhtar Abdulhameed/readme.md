@@ -1,4 +1,4 @@
-## Project Title
+## Crime Prediction and hotspot identification in Nigeria
 
 #### Background information
 Crime is global phenomena that need to be tackled to create an enabling environment for socio-economic development. Crime does not only pose threats to
