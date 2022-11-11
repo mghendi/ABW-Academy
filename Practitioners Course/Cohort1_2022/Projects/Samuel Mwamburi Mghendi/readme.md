@@ -22,7 +22,8 @@ Identify atleast 2 collaborators from your organization who will support you by 
 - Algorithm predicting the most efficient routes for collecting plastic waste from collection points.
 - Map showing the results of the algorithms
 
-#### Mentors (This will be added by ABW Team)
+#### Mentors 
+- [Prof Joaquim Gromincho](https://www.linkedin.com/in/joaquim-gromicho-a891643/)
 
 #### References
 1.	Wanjiku, N., (2015) Mass Balance of Plastics: Case Study for Nairobi City, erepository.uonbi.ac.ke. http://erepository.uonbi.ac.ke/bitstream/handle/11295/95017/MBP%20-CSNC%20Nov%202015%20Final%20Submission%20PDF.pdf  
