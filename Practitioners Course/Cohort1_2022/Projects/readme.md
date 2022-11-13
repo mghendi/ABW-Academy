@@ -20,6 +20,7 @@
 - [UNRWA Historic Archive Project Dashboard, Mahmoud Elsheikh Issa](https://github.com/Analytics-for-a-Better-World/ABW-Academy/edit/main/Practitioners%20Course/Cohort1_2022/Projects/Mahmoud%20Elsheikh%20Issa/readme.md)
 - [Amref Uganda Program Tracker, Maureen Nankanja](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Maureen%20Nankanja)
 - [Crime Prediction and hotspot identification in Nigeria, Mukhthar Abdulhameed](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Mukhtar%20Abdulhameed/readme.md)
+- [Patterns in Public Services and Schemes Delivery in India, (Neil) Nabhonil Roy Chowdhury](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Neil/readme.md)
 - [Finding suitable Environment for Ebola Index Case Occurance and Optimal Allocation of Resources, Sahand Tahir](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Sahand%20Tahir/readme.md)
 - [Data Wrangling and Visualization within Graduation Pilot Program in Mongolia, Undram Chinges](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Undram%20Chinges)
 
