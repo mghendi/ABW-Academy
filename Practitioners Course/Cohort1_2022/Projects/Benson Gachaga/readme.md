@@ -21,5 +21,5 @@ Identify atleast 2 collaborators from your organization who will support you by 
 A model/ models that can train the satellite imagery and achieve high accuracy
 
 #### Mentors (This will be added by ABW Team)
-
+- [Lokendra Chauhan](https://www.linkedin.com/in/lokendrachauhan/)
 #### References
