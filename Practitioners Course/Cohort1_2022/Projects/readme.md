@@ -2,6 +2,7 @@
 
 ### Mentor assigned
 
+- [Segmentation of medium resolution Satellite imagery through the application of AI (CNN), for detecting roads, Benson Gachaga](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Benson%20Gachaga)
 - [Situation analyis for the resilience programme in Tanzania, Frank Thomas](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Frank%20Thomas/readme.md)
 - [Identifying suitable locations for borehole sampling in West Darfur, Sudan, Heleen Elenbaas](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Heleen%20Elenbaas)
 - [Using Proxy Means Testing scores to determine vulnerable households at a risk of realizing universal health coverage in select counties, Kenya, Jochnoniah](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Jochoniah%20Nzomo)
@@ -10,7 +11,6 @@
 
 ### Mentor to be assigned
 
-- [Segmentation of medium resolution Satellite imagery through the application of AI (CNN), for detecting roads, Benson Gachaga](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Benson%20Gachaga)
 - [Mapping the Convergence of Selected Activities in Health Facility Catchment Areas on the SUN TA Project using Python, Cynthia Muyunda](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Cynthia%20Muyunda)
 - [Mapping Digital Divide in the Philippines for Community-Based Education Platform Strategy, Dana Kathleen](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Dana%20Kathleen)
 - [German Red Cross Global Operations Dashboard, Hussam Saeid](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Hussam%20Saeid)
