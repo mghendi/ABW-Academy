@@ -18,6 +18,8 @@ Collaborators:
 #### Expected Deliverables
 A PowerPoint presentation with key pointers around how Oxfam Novib is visible in media, and sentiment around our new brand identity, as input for the brand campaign evaluation.
 
-#### Mentors (This will be added by ABW Team)
+#### Mentors 
+- [Konstantina Andronikou](https://www.linkedin.com/in/konstantina-andronikou-8a0640227/)
+- [Claudia Orellana Rodriguez](https://www.linkedin.com/in/claudia-orellana-rodriguez/)
 
 #### References
