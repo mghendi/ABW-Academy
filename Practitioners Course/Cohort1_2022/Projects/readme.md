@@ -4,6 +4,7 @@
 
 - [Situation analyis for the resilience programme in Tanzania, Frank Thomas](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Frank%20Thomas/readme.md)
 - [Identifying suitable locations for borehole sampling in West Darfur, Sudan, Heleen Elenbaas](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Heleen%20Elenbaas)
+- [Using Proxy Means Testing scores to determine vulnerable households at a risk of realizing universal health coverage in select counties, Kenya, Jochnoniah](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Jochoniah%20Nzomo)
 - [Reach analysis for Dutch districts, Marije Jochemsen](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Marije%20Jochemsen)
 - [AI for Optimizing Plastic Waste Collection in Nairobi, Kenya,Samuel Mwamburi Mghendi](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Samuel%20Mwamburi%20Mghendi)
 
@@ -14,7 +15,6 @@
 - [Mapping Digital Divide in the Philippines for Community-Based Education Platform Strategy, Dana Kathleen](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Dana%20Kathleen)
 - [German Red Cross Global Operations Dashboard, Hussam Saeid](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Hussam%20Saeid)
 - [Monitoring & Resolving Violence, Exploitation and Abuse of Children within the SDG framework - Prochild Passport](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Jaswinder%20Singh)
-- [Using Proxy Means Testing scores to determine vulnerable households at a risk of realizing universal health coverage in select counties, Kenya, Jochnoniah](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Jochoniah%20Nzomo)
 - [M-Lab Data Dashboard, Laiyi Ohlsen](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Laiyi%20Ohlsen/readme.md)
 - [UNRWA Historic Archive Project Dashboard, Mahmoud Elsheikh Issa](https://github.com/Analytics-for-a-Better-World/ABW-Academy/edit/main/Practitioners%20Course/Cohort1_2022/Projects/Mahmoud%20Elsheikh%20Issa/readme.md)
 - [Sentiment around Oxfam Novib Brand, Marieke Meeske](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Marieke%20Meeske)
