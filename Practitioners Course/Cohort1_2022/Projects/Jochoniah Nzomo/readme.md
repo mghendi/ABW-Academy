@@ -18,7 +18,8 @@ Bill Olwenda, Health Financing Specialist, AMREF HEALTH INNOVATIONS
 #### Expected Deliverables
 Poverty prediction model, implementation of dashboard to demonstrate poverty levels and households at risk of not accesssing health services within 5 km radius.
 
-#### Mentors (This will be added by ABW Team)
+#### Mentors 
+- [Bas Verhoef](https://www.linkedin.com/in/bverhoef/)
 
 #### References
 
