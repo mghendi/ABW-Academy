@@ -10,10 +10,8 @@ The goal of the project is to create map that shows where activities across the 
 Program staff and senior management will utilize the results of the project, and areas where convergence is not happening will be investigated further and the results will inform programming.
 
 Identify atleast 2 collaborators from your organization who will support you by providing
-- Name, Title, Team, what is their persona for this project?
-Peter Chabwela, MEL Director, MEL, Project stakeholder
-- Name, Title, Team, what is their persona for this project?
-Chilekwa Chilekwa, MEL Manager, MEL, Project stakeholder
+- Peter Chabwela, MEL Director, MEL, Project stakeholder
+- Chilekwa Chilekwa, MEL Manager, MEL, Project stakeholder
 
 #### Expected Deliverables
 A Zambian Map showing activities across three thematic areas, namely, WASH, Health and Nutrition, and Agriculture and Livelihoods that may or may not be converging at particular healt facility catchment areas.
