@@ -14,6 +14,7 @@
 
 - [Mapping the Convergence of Selected Activities in Health Facility Catchment Areas on the SUN TA Project using Python, Cynthia Muyunda](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Cynthia%20Muyunda)
 - [Mapping Digital Divide in the Philippines for Community-Based Education Platform Strategy, Dana Kathleen](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Dana%20Kathleen)
+- [Re-establishing an efficient supply chain for WFP in Haiti, Florian Grenouilleau](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Florian%20Grenouilleau)
 - [German Red Cross Global Operations Dashboard, Hussam Saeid](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Hussam%20Saeid)
 - [Monitoring & Resolving Violence, Exploitation and Abuse of Children within the SDG framework - Prochild Passport](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Jaswinder%20Singh)
 - [M-Lab Data Dashboard, Laiyi Ohlsen](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Laiyi%20Ohlsen/readme.md)
