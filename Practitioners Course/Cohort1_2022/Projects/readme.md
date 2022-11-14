@@ -22,5 +22,6 @@
 - [Crime Prediction and hotspot identification in Nigeria, Mukhthar Abdulhameed](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Mukhtar%20Abdulhameed/readme.md)
 - [Patterns in Public Services and Schemes Delivery in India, (Neil) Nabhonil Roy Chowdhury](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Neil/readme.md)
 - [Finding suitable Environment for Ebola Index Case Occurance and Optimal Allocation of Resources, Sahand Tahir](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Sahand%20Tahir/readme.md)
+- [Find the target area for durable solutions in the drought and conflict affected areas of Ethiopia using the Imagery Analysis and the Displacement data, Sujan Paudel](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Sujan%20Paudel)
 - [Data Wrangling and Visualization within Graduation Pilot Program in Mongolia, Undram Chinges](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Undram%20Chinges)
 
