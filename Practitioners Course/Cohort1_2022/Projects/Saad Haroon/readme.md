@@ -1,6 +1,4 @@
-## Project Title
-
-******* TO BE FILLED BEFORE November 04, 2022 ***********
+## Rutgers Fundraising Dashboard
 
 #### Background information
 
