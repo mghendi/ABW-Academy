@@ -16,6 +16,7 @@
 - [Reach analysis for Dutch districts, Marije Jochemsen](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Marije%20Jochemsen)
 - [Crime Prediction and hotspot identification in Nigeria, Mukhthar Abdulhameed](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Mukhtar%20Abdulhameed/readme.md)
 - [Patterns in Public Services and Schemes Delivery in India, (Neil) Nabhonil Roy Chowdhury](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Neil/readme.md)
+- [Rutgers Fundraising Dashboard, Saad Haroon](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Saad%20Haroon/readme.md)
 - [Finding suitable Environment for Ebola Index Case Occurance and Optimal Allocation of Resources, Sahand Tahir](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Sahand%20Tahir/readme.md)
 - [AI for Optimizing Plastic Waste Collection in Nairobi, Kenya,Samuel Mwamburi Mghendi](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Samuel%20Mwamburi%20Mghendi)
 - [Find the target area for durable solutions in the drought and conflict affected areas of Ethiopia using the Imagery Analysis and the Displacement data, Sujan Paudel](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Sujan%20Paudel)
@@ -26,5 +27,4 @@
 - [Mapping Digital Divide in the Philippines for Community-Based Education Platform Strategy, Dana Kathleen](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Dana%20Kathleen)
 - [IFRC Americas Operations Management Dashboard](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/IFRC-Americas/readme.md)
 - [UNRWA Historic Archive Project Dashboard, Mahmoud Elsheikh Issa](https://github.com/Analytics-for-a-Better-World/ABW-Academy/edit/main/Practitioners%20Course/Cohort1_2022/Projects/Mahmoud%20Elsheikh%20Issa/readme.md)
-- [Rutgers Fundraising Dashboard, Saad Haroon](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Saad%20Haroon/readme.md)
 
