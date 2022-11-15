@@ -1,4 +1,4 @@
-## Information Management Platform for Emergency Response
+## Information Management Tool for Emergency Response
 Honduran Red Cross
 
 #### Background Information
@@ -21,16 +21,24 @@ The Honduran Red Cross is a voluntary humanitarian organization that mobilizes n
  -Universality
 
 
-#### Goal of the project
+#### Goal of the project (In development)
+The Emergency Response Tool's purpose will collect the data to assess the situation
+
+
 
 #### Who will be using the results of this project and for making what decisions?
+Honduran Red Cross Government, President, Director General, Risk Reduction Manager, HRC National Emergency Operations Center, HRC Monitor Strategic Centers, HRC Risk Reduction Team responding the emergency, Red Cross Nacional Societies fron the movement responding the emergency
 
 Identify atleast 2 collaborators from your organization who will support you by providing
 - Carlos Colindres, Disaster Risk Reduction Manager, Risk Management Team, a collaborator and future user
 - Melvin Josue Martines, Preparedness and Response Officer, Risk Management Team, a collaborator and future user
 
 #### Expected Deliverables
-- Emergency Response Site
+1. Information Management Tool that will include
+- Emergency Response Site 
+- List of HRC Resources Available 
+- Kobo Forms for Collecting Data
+- Power BI Dashboard to visualize the needs to respond the emergency
 
 #### Mentors (This will be added by ABW Team)
 
