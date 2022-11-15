@@ -23,7 +23,9 @@ Identify atleast 2 collaborators from your organization who will support you by 
 - Optimization algorithm prescribing locations to prioritise for borehole drilling for maximising access to vulnerable population
 - Map showing the results of the algorithm
 
-#### Mentors (This will be added by ABW Team)
+#### Mentors 
+- [Prof. Dick den Hertog](https://www.uva.nl/content/nieuws/hoogleraarsbenoemingen/2020/06/dick-den-hertog-benoemd-tot-hoogleraar-operations-research.html)
+- [Britt van Veggel](https://www.linkedin.com/in/britt-van-veggel-754288a8/)
 
 #### References
 - https://www.researchgate.net/publication/298607928_Groundwater_quality_in_Khartoum_State_Sudan
