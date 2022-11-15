@@ -22,7 +22,7 @@ The Honduran Red Cross is a voluntary humanitarian organization that mobilizes n
 
 
 #### Goal of the project (In development)
-The Emergency Response Tool's purpose will collect the data to assess the situation
+The Emergency Response Tool's purpose will collect the data to assess the situation...
 
 
 
