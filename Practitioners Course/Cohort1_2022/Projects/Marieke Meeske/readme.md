@@ -6,6 +6,7 @@ In standing for equality, Oxfam Novib is increasingly becoming an influencing or
 
 #### Goal of the project
 The objective of this project is to “listen” to how Oxfam Novib brand is perceived. 
+
 Idea 1: We recently adopted a new brand identity and social media strategy, with focus on implementation at Instagram. I will dive into Instagram API and employ text mining techniques to 1) categorize and analyze the subject of conversation re: comments/engagements with our posts; and to 2) analyze the sentiment around Oxfam Novib brand. I will disaggregate the data by before/after new brand implementation, to see if topic of conversation/sentiment is changing (and if data allows to look into types of followers). This will give the brand team insights into our 'new followers' and how Oxfam Novib can keep growing its supporterbase.
 
 Idea 2: I will dive into news articles (using https://www.gdeltproject.org/) and employ text mining techniques to 1) categorize and analyze the subject of conversation; and more importantly to 2) analyze the sentiment around Oxfam Novib brand. 
