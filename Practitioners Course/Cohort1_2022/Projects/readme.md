@@ -26,6 +26,6 @@
 ### Mentor to be assigned
 
 - [Information Management Tool for Emergency Response, Honduran Red Cross, Alicia Flores](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Alicia%20Flores)
-- [IFRC Americas Operations Management Dashboard](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/IFRC-Americas/readme.md, Frida Archibold and Stephanie Gourdon)
+- [IFRC Americas Operations Management Dashboard, Frida Archibold and Stephanie Gourdon](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/IFRC-Americas/readme.md)
 - [UNRWA Historic Archive Project Dashboard, Mahmoud Elsheikh Issa](https://github.com/Analytics-for-a-Better-World/ABW-Academy/edit/main/Practitioners%20Course/Cohort1_2022/Projects/Mahmoud%20Elsheikh%20Issa/readme.md)
 
