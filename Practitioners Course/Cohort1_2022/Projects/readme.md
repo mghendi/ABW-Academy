@@ -2,6 +2,7 @@
 
 ### Mentor assigned
 
+- [Information Management Tool for Emergency Response, Honduran Red Cross, Alicia Flores](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Alicia%20Flores)
 - [Segmentation of medium resolution Satellite imagery through the application of AI (CNN), for detecting roads, Benson Gachaga](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Benson%20Gachaga)
 - [Mapping the Convergence of Selected Activities in Health Facility Catchment Areas on the SUN TA Project using Python, Cynthia Muyunda](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Cynthia%20Muyunda)
 - [Mapping Digital Divide in the Philippines for Community-Based Education Platform Strategy, Dana Kathleen](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Dana%20Kathleen)
@@ -25,7 +26,6 @@
 
 ### Mentor to be assigned
 
-- [Information Management Tool for Emergency Response, Honduran Red Cross, Alicia Flores](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Alicia%20Flores)
 - [IFRC Americas Operations Management Dashboard, Frida Archibold and Stephanie Gourdon](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/IFRC-Americas/readme.md)
 - [UNRWA Historic Archive Project Dashboard, Mahmoud Elsheikh Issa](https://github.com/Analytics-for-a-Better-World/ABW-Academy/edit/main/Practitioners%20Course/Cohort1_2022/Projects/Mahmoud%20Elsheikh%20Issa/readme.md)
 
