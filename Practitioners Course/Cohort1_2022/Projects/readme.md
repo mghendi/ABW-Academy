@@ -1,7 +1,5 @@
 ## Cohort 1 Projects
 
-### Mentor assigned
-
 - [Information Management Tool for Emergency Response, Honduran Red Cross, Alicia Flores](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Alicia%20Flores)
 - [Segmentation of medium resolution Satellite imagery through the application of AI (CNN), for detecting roads, Benson Gachaga](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Benson%20Gachaga)
 - [Mapping the Convergence of Selected Activities in Health Facility Catchment Areas on the SUN TA Project using Python, Cynthia Muyunda](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Cynthia%20Muyunda)
@@ -25,8 +23,5 @@
 - [AI for Optimizing Plastic Waste Collection in Nairobi, Kenya,Samuel Mwamburi Mghendi](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Samuel%20Mwamburi%20Mghendi)
 - [Find the target area for durable solutions in the drought and conflict affected areas of Ethiopia using the Imagery Analysis and the Displacement data, Sujan Paudel](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Sujan%20Paudel)
 - [Data Wrangling and Visualization within Graduation Pilot Program in Mongolia, Undram Chinges](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Undram%20Chinges)
-
-### Mentor to be assigned
-
 
 
