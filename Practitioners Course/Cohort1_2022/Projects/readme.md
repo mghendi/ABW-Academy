@@ -9,6 +9,7 @@
 - [Situation analyis for the resilience programme in Tanzania, Frank Thomas](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Frank%20Thomas/readme.md)
 - [Identifying suitable locations for borehole sampling in West Darfur, Sudan, Heleen Elenbaas](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Heleen%20Elenbaas)
 - [German Red Cross Global Operations Dashboard, Hussam Saeid](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Hussam%20Saeid)
+- [Numerical Wave Model for the Ocean Cleanup, Ivan Soares](https://github.com/ivan-soares/abw-project)
 - [Monitoring & Resolving Violence, Exploitation and Abuse of Children within the SDG framework - Prochild Passport](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Jaswinder%20Singh)
 - [Using Proxy Means Testing scores to determine vulnerable households at a risk of realizing universal health coverage in select counties, Kenya, Jochnoniah](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Jochoniah%20Nzomo)
 - [M-Lab Data Dashboard, Laiyi Ohlsen](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Laiyi%20Ohlsen/readme.md)
