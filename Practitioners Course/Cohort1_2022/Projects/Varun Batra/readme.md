@@ -1,5 +1,5 @@
-## Project Title
-Realtime satellite-based monitoring system for Landscape restorations through AFOLU
+**Realtime satellite-based monitoring system for Landscape restorations through AFOLU**
+
 
 #### Background information
 Around the globe, organisations and governments are focusing on offsetting carbon through landscape-level restoration activities using trees as a component of the intervention. Although, impact measurement has always been a challenge for such activities.
