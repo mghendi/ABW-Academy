@@ -16,8 +16,10 @@ Large-scale restoration organisations, governments, Civil Society Organisations,
 
 Identify atleast 2 collaborators from your organization who will support you by providing
 - Name, Title, Team, what is their persona for this project?
+
 Durgesh Agrahari, Head - Programs and Partnerships
 - Name, Title, Team, what is their persona for this project?
+
 Mahidhar Reddy S, Head - Rural Programs
 
 #### Expected Deliverables
