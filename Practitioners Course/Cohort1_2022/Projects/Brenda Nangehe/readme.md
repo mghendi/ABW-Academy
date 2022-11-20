@@ -1,5 +1,5 @@
 ## Project Title
-Digital learning reporting dashboard for course tracking nad evaluation.
+Digital learning reporting dashboard for course tracking and evaluation.
 
 #### Background information
 One of the Amref Health Africa Strategic Pillar is Human resources for health; to develop and sustain human resources for health (HRH) to catalyze the attainment of universal health coverage. The Strategic Objective is to increase the number and skills mix of mid-level and community-level health workers and Scaling up the use of digital learning approaches is a priority intervention.
