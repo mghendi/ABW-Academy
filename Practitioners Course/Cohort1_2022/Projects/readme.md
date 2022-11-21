@@ -1,24 +1,32 @@
 ## Cohort 1 Projects
 
-### Mentor assigned
-
-- [Identifying suitable locations for borehole sampling in West Darfur, Sudan, Heleen Elenbaas](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Heleen%20Elenbaas)
-- [Reach analysis for Dutch districts, Marije Jochemsen](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Marije%20Jochemsen)
-- [AI for Optimizing Plastic Waste Collection in Nairobi, Kenya,Samuel Mwamburi Mghendi](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Samuel%20Mwamburi%20Mghendi)
-
-### Mentor to be assigned
-
+- [Information Management Tool for Emergency Response, Honduran Red Cross, Alicia Flores](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Alicia%20Flores)
 - [Segmentation of medium resolution Satellite imagery through the application of AI (CNN), for detecting roads, Benson Gachaga](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Benson%20Gachaga)
 - [Mapping the Convergence of Selected Activities in Health Facility Catchment Areas on the SUN TA Project using Python, Cynthia Muyunda](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Cynthia%20Muyunda)
 - [Mapping Digital Divide in the Philippines for Community-Based Education Platform Strategy, Dana Kathleen](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Dana%20Kathleen)
+- [Re-establishing an efficient supply chain for WFP in Haiti, Florian Grenouilleau](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Florian%20Grenouilleau)
+- [IFRC Americas Operations Management Dashboard, Frida Archibold and Stephanie Gourdon](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/IFRC-Americas/readme.md)
 - [Situation analyis for the resilience programme in Tanzania, Frank Thomas](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Frank%20Thomas/readme.md)
+- [Identifying suitable locations for borehole sampling in West Darfur, Sudan, Heleen Elenbaas](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Heleen%20Elenbaas)
 - [German Red Cross Global Operations Dashboard, Hussam Saeid](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Hussam%20Saeid)
+- [Numerical Wave Model for the Ocean Cleanup, Ivan Soares](https://github.com/ivan-soares/abw-project)
 - [Monitoring & Resolving Violence, Exploitation and Abuse of Children within the SDG framework - Prochild Passport](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Jaswinder%20Singh)
 - [Using Proxy Means Testing scores to determine vulnerable households at a risk of realizing universal health coverage in select counties, Kenya, Jochnoniah](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Jochoniah%20Nzomo)
 - [M-Lab Data Dashboard, Laiyi Ohlsen](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Laiyi%20Ohlsen/readme.md)
-- [UNRWA Historic Archive Project Dashboard, Mahmoud Elsheikh Issa](https://github.com/Analytics-for-a-Better-World/ABW-Academy/edit/main/Practitioners%20Course/Cohort1_2022/Projects/Mahmoud%20Elsheikh%20Issa/readme.md)
 - [Sentiment around Oxfam Novib Brand, Marieke Meeske](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Marieke%20Meeske)
+- [Amref Uganda Program Tracker, Maureen Nankanja](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Maureen%20Nankanja)
+- [Reach analysis for Dutch districts, Marije Jochemsen](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Marije%20Jochemsen)
 - [Crime Prediction and hotspot identification in Nigeria, Mukhthar Abdulhameed](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Mukhtar%20Abdulhameed/readme.md)
+- [Patterns in Public Services and Schemes Delivery in India, (Neil) Nabhonil Roy Chowdhury](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Neil/readme.md)
+- [Rutgers Fundraising Dashboard, Saad Haroon](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Saad%20Haroon/readme.md)
 - [Finding suitable Environment for Ebola Index Case Occurance and Optimal Allocation of Resources, Sahand Tahir](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Sahand%20Tahir/readme.md)
+- [AI for Optimizing Plastic Waste Collection in Nairobi, Kenya,Samuel Mwamburi Mghendi](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Samuel%20Mwamburi%20Mghendi)
+- [Find the target area for durable solutions in the drought and conflict affected areas of Ethiopia using the Imagery Analysis and the Displacement data, Sujan Paudel](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Sujan%20Paudel)
 - [Data Wrangling and Visualization within Graduation Pilot Program in Mongolia, Undram Chinges](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Undram%20Chinges)
 
+### Mentor to be assigned
+
+- [Flood risk vulnerability of households, Hassan Ngala](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Hassan%20Ngala)
+- [IFRC Americas Operations Management Dashboard, Frida Archibold and Stephanie Gourdon](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/IFRC-Americas/readme.md)
+- [Rising income and consumption of unhealthy foods, Shipra Kumar](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Shipra%20Kumar/readme.md)
+- [UNRWA Historic Archive Project Dashboard, Mahmoud Elsheikh Issa](https://github.com/Analytics-for-a-Better-World/ABW-Academy/edit/main/Practitioners%20Course/Cohort1_2022/Projects/Mahmoud%20Elsheikh%20Issa/readme.md)
