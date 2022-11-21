@@ -25,4 +25,8 @@
 - [Find the target area for durable solutions in the drought and conflict affected areas of Ethiopia using the Imagery Analysis and the Displacement data, Sujan Paudel](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Sujan%20Paudel)
 - [Data Wrangling and Visualization within Graduation Pilot Program in Mongolia, Undram Chinges](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Undram%20Chinges)
 
+### Mentor to be assigned
+
+- [Flood risk vulnerability of households, Hassan Ngala](https://github.com/Analytics-for-a-Better-World/ABW-Academy/tree/main/Practitioners%20Course/Cohort1_2022/Projects/Hassan%20Ngala)
+
 
