@@ -30,3 +30,4 @@
 - [IFRC Americas Operations Management Dashboard, Frida Archibold and Stephanie Gourdon](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/IFRC-Americas/readme.md)
 - [Rising income and consumption of unhealthy foods, Shipra Kumar](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Shipra%20Kumar/readme.md)
 - [UNRWA Historic Archive Project Dashboard, Mahmoud Elsheikh Issa](https://github.com/Analytics-for-a-Better-World/ABW-Academy/edit/main/Practitioners%20Course/Cohort1_2022/Projects/Mahmoud%20Elsheikh%20Issa/readme.md)
+- [Realtime satellite-based monitoring system for Landscape restorations through AFOLU, Varun Batra0](https://github.com/Analytics-for-a-Better-World/ABW-Academy/blob/main/Practitioners%20Course/Cohort1_2022/Projects/Varun%20Batra/readme.md)
