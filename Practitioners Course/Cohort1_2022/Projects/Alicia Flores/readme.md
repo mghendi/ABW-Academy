@@ -31,7 +31,7 @@ The main goal of the project is to create a tool to collect and visualize all th
 Specific Objectives
 1. Merge all the data that has been collected the last years.
 2. Create an ODK form to collect all services the branches provide.
-3. Create a dashboard to track all the services nationwide at different levels in order to make proper decisions on time.
+3. Create a dashboard to visualize all the services filtered by date/month, region, type of service, department and branch.
 
 #### Who will be using the results of this project and for making what decisions?
 - HRC President
