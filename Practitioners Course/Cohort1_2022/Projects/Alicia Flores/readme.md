@@ -24,9 +24,14 @@ The Honduran Red Cross is a voluntary humanitarian organization that mobilizes n
 
 
 #### Goal of the project (In development)
-The Honduran Red Cross currently has 53 branches that provide various services to the community on a daily basis, assisting local emergencies through its ambulance service, first aids, assisting in mass mobilizations, patient ambulance transport on daily basis or during the COVID-19 pandemic, etc.
+The Honduran Red Cross currently has 53 branches that provide several services to the community financed on a daily basis, assisting local emergencies through its ambulance service, first aids, assisting in mass mobilizations, patient ambulance transport on daily basis or during the COVID-19 pandemic, etc. This services are financed by their local budget or donations from local business, mayors, etc. Currentl the data is being collected with excel files that are consolidated manually in the headquarter. 
 
-The main goal is to create a tool to collect all these services they provide and to create a dashboard to track all the services nationwide at different levels in order to make proper decisions on time.
+The main goal of the project is to create a tool to collect and visualize all the services provided by the branches in order to track all the services nationwide at different levels in order to make proper decisions on time. 
+
+Specific Objectives
+1. Merge all the data that has been collected the last years.
+2. Create a ODK form to collect all services the branches provide.
+3. Create a dashboard to track all the services nationwide at different levels in order to make proper decisions on time.
 
 #### Who will be using the results of this project and for making what decisions?
 - HRC President
