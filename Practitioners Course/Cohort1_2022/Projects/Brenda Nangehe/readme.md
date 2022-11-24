@@ -8,14 +8,17 @@ Jibu is a digital learning and collaboration platform being used to build and st
 
 #### Goal of the project
 Digital learning performance improvement
+Improving the learning journey of the users. 
+Identify gaps and course success factors
+
 
 #### Who will be using the results of this project and for making what decisions?
 Course owners /partners, digital learning platform users ( tutors, learners and administrators)
 
 Identify atleast 2 collaborators from your organization who will support you by providing
 - Name, Title, Team, what is their persona for this project?
-- Willie Ngumi, Deputy Director, Digital Learning, involved closely
-- Raphael Muia, Administrator, teammate, involved closely?
+- Deputy Director, Digital Learning, involved closely
+- Administrator, teammate, involved closely?
 - course owner, Title, course owner, Meeting their need?
 
 #### Expected Deliverables
