@@ -6,6 +6,7 @@ Honduran Red Cross
 
 The Honduran Red Cross together with the 191 National Red Cross and Red Crescent Societies, the International Committee of the Red Cross and the International Federation of Red Cross Societies, integrates the International Red Cross Movement, whose doctrinal framework it focuses on the Seven Fundamental Principles, which mark the purpose, action and interrelationship of the Movement and its environment. The Honduran Red Cross reaches the community through volunteers and technical personnel, highly trained for the performance of their duties and committed to the humanitarian cause. It incorporates the guidelines of the Movement in all its actions and focuses its efforts on the training of its human talent, and the execution of programs aimed at disseminating the Fundamental Principles and Humanitarian Values, risk management, community health and its own institutional strengthening.
 
+
 OUR VISION
 
 By the year 2025, we are a voluntary organization, working in a network under the regional model, acting with leadership and constant innovation in humanitarian work, providing equitable services to the most vulnerable population, with a focus on gender, diversity and social inclusion, transparency, accountability and sustainability.
@@ -24,25 +25,29 @@ The Honduran Red Cross is a voluntary humanitarian organization that mobilizes n
 
 #### Goal of the project (In development)
 General Objetive
+The Honduran Red Cross currently has 53 branches that provide various services to the community on a daily basis, assisting local emergencies through its ambulance service, first aids, and also assisting in mass mobilizations. 
 
-
-Spec
-
+The main goal is to create a tool to collect all these services they provide and to create a dashboard to create a dashboard to track all the services nationwide at different levels in order to make proper decisions on time
 
 
 #### Who will be using the results of this project and for making what decisions?
-Honduran Red Cross Government, President, Director General, Risk Reduction Manager, HRC National Emergency Operations Center, HRC Monitor Strategic Centers, HRC Risk Reduction Team responding the emergency, Red Cross Nacional Societies fron the movement responding the emergency
+- HRC President
+- HRC Region´s Vice Presidents
+- HRC Branches´s Presidents
+- HRC General Director
+- HRC National Monitor Center
+- Organizationat Development Manager
+- Risk Management Manager
+- Security Referent HRC Monitor Strategic Centers, HRC Risk Reduction Team responding the emergency, Red Cross Nacional Societies fron the movement responding the emergency
 
 Identify atleast 2 collaborators from your organization who will support you by providing
-- Carlos Colindres, Disaster Risk Reduction Manager, Risk Management Team, a collaborator and future user
-- Melvin Josue Martines, Preparedness and Response Officer, Risk Management Team, a collaborator and future user
+- Luis Knight, HRC National Safety Referent
+- Selvin Martines, Organizational Development Manager
 
 #### Expected Deliverables
 1. Information Management Tool that will include
-- Emergency Response Site 
-- List of HRC Resources Available 
-- Kobo Forms for Collecting Data
-- Power BI Dashboard to visualize the needs to respond the emergency
+- ODK Form for Collecting Data 
+- Power BI Dashboard to visualize the services provided by year, month, region, type of service and branch
 
 #### Mentors (This will be added by ABW Team)
 
