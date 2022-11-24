@@ -7,7 +7,7 @@ We have implemented digital learning since 2005, where we used print-based mater
 Jibu is a digital learning and collaboration platform being used to build and strengthen Human Resources for Health across Africa. Currently, it has learners from over 36 African countries with over 60,000 users reached with capacity-building courses available in English, French and Portuguese on the platform. The courses are developed and are guided by policy and research in HRH and accessed via the internet browser or mobile app (for mobile phone users)
 
 #### Goal of the project
-Digital learning performance improvement
+Digital learning performance improvement.
 Improving the learning journey of the users. 
 Identify gaps and course success factors
 
