@@ -24,7 +24,7 @@ The Honduran Red Cross is a voluntary humanitarian organization that mobilizes n
 
 
 #### Goal of the project (In development)
-The Honduran Red Cross currently has 53 branches that provide several services to the community financed on a daily basis, assisting local emergencies through its ambulance service, first aids, assisting in mass mobilizations, patient ambulance transport on daily basis or during the COVID-19 pandemic, etc. This services are financed by their local budget or donations from local business, mayors, etc. Currentl the data is being collected with excel files that are consolidated manually in the headquarter. 
+The Honduran Red Cross currently has 53 branches. In addition to all the activities and actions that are carried out through the different projects that HRC carries out throughout the country, branches provide several services to the community financed on a daily basis, assisting local emergencies through its ambulance service, first aids, assisting in mass mobilizations, patient ambulance transport on daily basis or during the COVID-19 pandemic, etc. This services are financed by their local budget or donations from local business, mayors, etc. Currentl the data is being collected with excel files that are consolidated manually in the headquarter. 
 
 The main goal of the project is to create a tool to collect and visualize all the services provided by the branches in order to track all the services nationwide at different levels in order to make proper decisions on time. 
 
