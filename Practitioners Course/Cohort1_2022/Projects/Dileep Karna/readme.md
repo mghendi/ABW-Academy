@@ -9,7 +9,7 @@
 #### Who will be using the results of this project and for making what decisions?
 
 
-Identify atleast 2 collaborators from your organization who will support you by providing
+#### Identify atleast 2 collaborators from your organization who will support you by providing
 - Annu Itty, Senior Researcher, Economic Policy Research Institute, Mentor and Guide for learning materials design
 - Sonia Jose, Senior Researcher, Economic Policy Research Institute, Expert in Project for advice on monitoring and evaluation systems
 
