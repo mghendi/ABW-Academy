@@ -41,7 +41,7 @@ Specific Objectives
 - HRC National Monitor Center
 - Organizationat Development Manager
 - Risk Management Manager
-- Security Referent HRC Monitor Strategic Centers, HRC Risk Reduction Team responding the emergency, Red Cross Nacional Societies fron the movement responding the emergency
+- Security Referent HRC 
 
 Identify atleast 2 collaborators from your organization who will support you by providing
 - Luis Knight, HRC National Safety Referent
@@ -50,6 +50,7 @@ Identify atleast 2 collaborators from your organization who will support you by 
 #### Expected Deliverables
 1. Information Management Tool that will include
 - ODK Form for Collecting Data 
+- ODK Server connection with Google Drive Spreadsheet to collect data
 - Power BI Dashboard to visualize the services provided by year, month, region, type of service and branch
 
 #### Mentors (This will be added by ABW Team)
