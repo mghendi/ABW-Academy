@@ -1,4 +1,4 @@
-## Project Title
+## Project Management Dashboard for an International Training Programme
 
 #### Background information
 
