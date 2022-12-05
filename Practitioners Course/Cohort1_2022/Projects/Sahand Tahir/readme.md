@@ -1,4 +1,5 @@
-## Finding suitable Environment for Ebola Index Case Occurance and Optimal Allocation of Resources
+## Location Selection and Resource Optimization
+
 
 #### Background
 There is no doubt that Ebola is one of the deadliest diseases threatening the lives of people around the world, especially in Africa. With an average 50% mortality rate, a person who contracts the illness has a 50% chance of survival. Despite innovations and vaccine introductions in recent years, the disease continues to appear, and all efforts do not seem to have resulted in its eradication or minimization.
