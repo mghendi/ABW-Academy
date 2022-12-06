@@ -17,7 +17,9 @@ Identify atleast 2 collaborators from your organization who will support you by 
 #### Expected Deliverables
 Ultimately, an optimisation model will be deployed that optimises for reach, based on the locations of volunteers, cars, and assembly points. Initially, this will be done for one district as a pilot.
 
-#### Mentors (This will be added by ABW Team)
+#### Mentors 
+- [Miléna Tyra](https://www.linkedin.com/in/miléna-tyra-70a38a1b7/)
+- [Martin Comis](https://www.linkedin.com/in/martin-comis/)
 
 #### References
 

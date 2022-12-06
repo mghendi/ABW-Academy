@@ -1,5 +1,4 @@
 ## Making the data processing and visualization within Graduation Pilot Program in Mongolia
-******* TO BE FILLED BEFORE November 04, 2022 ***********
 
 #### Background information
 
