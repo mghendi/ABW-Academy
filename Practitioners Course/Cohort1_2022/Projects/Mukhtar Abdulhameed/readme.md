@@ -690,3 +690,16 @@ fig = px.scatter_mapbox(
 ## to plot the map use
 
 fig
+
+
+
+##### SLIDES_FOR_PROJECT_PRESENTATION
+[ABW Fellowship_Final PP_SlideDeck_Mukhtar Abdulhameed.pptx](https://github.com/Analytics-for-a-Better-World/ABW-Academy/files/10165689/ABW.Fellowship_Final.PP_SlideDeck_Mukhtar.Abdulhameed.pptx)
+
+
+###CODES_USED_FOR_THE_PROJECT
+
+https://colab.research.google.com/drive/1PLEvDGmsvMfq98_gHhlnIEMHOzYYiVw_#scrollTo=dg6rnGacsJ6W
+
+https://colab.research.google.com/drive/1IT61w4U1DeKLZKSW97geSOPcGL6gvvCS#scrollTo=zYfDRRHH226M
+
